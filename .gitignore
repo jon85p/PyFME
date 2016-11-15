@@ -3,8 +3,12 @@ __pycache__
 .idea
 build
 
-*.py[cod]
+*.py[cod~]
 
 *.egg-info
 
 .spyder*
+
+examples/.ipynb_checkpoints
+examples/examples-notebook/.ipynb_checkpoints/
+
